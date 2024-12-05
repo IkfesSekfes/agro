@@ -47,16 +47,16 @@
               <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
               <Group type="102" attributes="0">
                   <Group type="103" groupAlignment="0" attributes="0">
-                      <Group type="102" alignment="0" attributes="0">
-                          <EmptySpace min="-2" pref="315" max="-2" attributes="0"/>
-                          <Component id="bnt_voltarPrincipal" min="-2" max="-2" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="221" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="bnt_cadastroPropriedadeTela" alignment="0" min="-2" pref="356" max="-2" attributes="0"/>
+                              <Component id="bnt_cadastroProprietarioTela" min="-2" pref="356" max="-2" attributes="0"/>
+                          </Group>
                       </Group>
                       <Group type="102" alignment="0" attributes="0">
-                          <EmptySpace min="-2" pref="229" max="-2" attributes="0"/>
-                          <Group type="103" groupAlignment="0" attributes="0">
-                              <Component id="bnt_cadastroPropriedadeTela" min="-2" max="-2" attributes="0"/>
-                              <Component id="bnt_cadastroProprietarioTela" min="-2" max="-2" attributes="0"/>
-                          </Group>
+                          <EmptySpace min="-2" pref="311" max="-2" attributes="0"/>
+                          <Component id="bnt_voltarPrincipal" min="-2" pref="152" max="-2" attributes="0"/>
                       </Group>
                   </Group>
                   <EmptySpace max="32767" attributes="0"/>
@@ -67,12 +67,12 @@
           <Group type="103" groupAlignment="0" attributes="0">
               <Group type="102" alignment="0" attributes="0">
                   <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace min="-2" pref="67" max="-2" attributes="0"/>
-                  <Component id="bnt_cadastroProprietarioTela" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace min="-2" pref="111" max="-2" attributes="0"/>
-                  <Component id="bnt_cadastroPropriedadeTela" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace pref="153" max="32767" attributes="0"/>
-                  <Component id="bnt_voltarPrincipal" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace pref="96" max="32767" attributes="0"/>
+                  <Component id="bnt_cadastroProprietarioTela" min="-2" pref="48" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
+                  <Component id="bnt_cadastroPropriedadeTela" min="-2" pref="44" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="116" max="-2" attributes="0"/>
+                  <Component id="bnt_voltarPrincipal" min="-2" pref="44" max="-2" attributes="0"/>
                   <EmptySpace max="-2" attributes="0"/>
               </Group>
           </Group>
